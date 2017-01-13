@@ -1,0 +1,19 @@
+﻿{
+    "type": "message",
+    "ts": "1358546515.000007",
+    "user": "U2147483896",
+    "text": "World",
+    "is_starred": true,
+    "reactions": [
+        {
+            "name": "space_invader",
+            "count": 3,
+            "users": [ "U1", "U2", "U3" ]
+        },
+        {
+            "name": "sweet_potato",
+            "count": 5,
+            "users": [ "U1", "U2", "U3", "U4", "U5" ]
+        }
+    ]
+}
